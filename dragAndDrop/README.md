@@ -9,11 +9,12 @@
 
 ## Usage
 
-1. Start the development server:
+1. After cloning and installation,
+2. Start your development with
    ```sh
-   npm start
+   npm run dev
    ```
-2. Open your browser and go to `http://localhost:3000`
+3. Open your browser and go to `http://localhost:3000`
 
 ## Contributing
 
