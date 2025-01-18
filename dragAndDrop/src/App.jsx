@@ -2,8 +2,8 @@ import "./index.css";
 
 export default function App() {
   return (
-    <div className="p-4 bg-gray-100">
-      <h1 className="text-2xl font-bold text-red-500">Hello World</h1>
+    <div className="w-full h-screen flex items-center justify-center">
+      <h1 className="text-red-700 text-4xl font-bold">Hello world</h1>
     </div>
   );
 }
